@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const contactForm = document.getElementById('contactForm');
 
     applyNowButton.addEventListener('click', () => {
-        alert('Thank you for your interest in applying to Example University! Our application system will open soon.');
+        alert('Thank you for your interest in applying to sabahttin zaim University! Our application system will open soon.');
     });
 
     contactForm.addEventListener('submit', (e) => {
